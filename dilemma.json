@@ -1,0 +1,11 @@
+{
+  "people": 2,
+  "case_1": {
+    "swerve": true,
+    "reason": "Minimize total harm and loss of life; with all else equal, hitting one instead of two reduces expected fatalities."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "Prioritize minimizing harm with added weight to vulnerability and expected life-years; the system should not judge moral worth, but protecting a child over multiple adults (even criminals) reduces expected harm."
+  }
+}
